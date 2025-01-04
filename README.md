@@ -47,9 +47,6 @@ python GestureTrackController.py
   - **Volume Up**: Show 4 fingers to increase the volume.
   - **Volume Down**: Show 5 fingers to decrease the volume.
 
-### Visual Indicators
-- **Volume Level and Current Track**: Displayed on the screen.
-- **Number of Detected Fingers**: Shows how many fingers are detected, which corresponds to different controls.
 
 ## Important Notes
 Ensure your webcam is enabled and properly configured before running the application. Lighting conditions and background can significantly affect the accuracy of hand gesture detection.
